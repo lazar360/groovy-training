@@ -28,6 +28,3 @@ println maListe[0]
 // ou 
 maListe << "TITI"
 maListe + "TOTO"
-maListe.each{
-    println it
-}
